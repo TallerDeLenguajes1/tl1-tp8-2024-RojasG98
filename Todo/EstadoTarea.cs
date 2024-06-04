@@ -1,0 +1,6 @@
+enum EstadoTarea
+{
+    Pendiente,
+    Realizado
+}
+
